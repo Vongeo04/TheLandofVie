@@ -1,0 +1,3 @@
+git lfs install
+git lfs track '*.nc'
+git lfs track '*.csv'
